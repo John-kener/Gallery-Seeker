@@ -38,6 +38,18 @@ Contact Me On <br><br>
 
 
 <hr>
+<h2><p align = "left">[+] Account Setup </p></h2>
+	
+
+
+Creating An Account : https://www.dropbox.com/account
+
+
+Getting Access Tokens : https://www.dropbox.com/developers/apps/create?_tk=pilot_lp&_ad=ctabtn1&_camp=create
+
+
+Cloud Storage (Home) : https://www.dropbox.com/h
+
 <h2><p align = "left">[+] Command List</p></h2>
 	
 	
