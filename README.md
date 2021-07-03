@@ -8,6 +8,12 @@
 </p>
 <br />
 <hr />
+<p align="center">
+Contact Me On <br><br>
+<a href="https://www.facebook.com/profile.php?id=100057560824177"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
+<a href="https://t.me/John_kener"><img title="Telegram " src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram"></a>
+<a href="https://bit.ly/3pHwbVM"><img title="Whatsapp" src="https://img.shields.io/badge/WHATSAPP -red?style=for-the-badge&logo=whatsapp"></a>
+</br>
 <hr />
 <p align="center">
 <img src="https://github.com/John-kener/Gallery-Seeker/blob/main/Seeker.jpg" alt="Tool Home Image " width="260" height="260"/>
