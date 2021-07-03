@@ -1,8 +1,9 @@
 <h1><p align= "center">Gallery-Seeker V1.0</p></h1>
+<h3><p align= "center">The Easiest Way To Gallery Hacking </p></h3><br>
+
 <h4><p align = "center">* Tool By John Kener * <p><h4>
 <div>  
 <p align= "center">
-<br />
 <img src="https://www.udrop.com/file/5HFB/IMG_20210511_073611_429.jpg",width="80", height="80",alt="john-kener"/>
 </p>
 <br />
