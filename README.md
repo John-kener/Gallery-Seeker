@@ -1,5 +1,5 @@
-<h1><p align= "center">T-MAIL V1.0 </p></h1>
-<h4><p align = "center">Tool By John Kener <p><h4>
+<h1><p align= "center">Gallery-Seeker V1.0</p></h1>
+<h4><p align = "center">* Tool By John Kener * <p><h4>
 <div>  
 <p align= "center">
 <br />
@@ -9,7 +9,7 @@
 <hr />
 <hr />
 <p align="center">
-<img src="https://www.udrop.com/file/5HFC/Screenshot_20210627-172517-1.jpg" alt="Tool Home Image " width="260" height="220"/>
+<img src="https://github.com/John-kener/Gallery-Seeker/blob/main/Seeker.jpg" alt="Tool Home Image " width="260" height="260"/>
 </p>
 </div>
 
@@ -24,7 +24,13 @@
 
 * Termux
 
+#### >> VICTIM MUST BE A TERMUX USER
 
+<hr>
+
+
+
+<hr>
 <h2><p align = "left">[+] Command List</p></h2>
 	
 	
