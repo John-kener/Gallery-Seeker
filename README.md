@@ -61,34 +61,32 @@
 <hr />
 
 ## [#] INSTRUCTIONS
-	
-(1) You Can prank Your Friends with the
-	Email Bomber in the frist option
-	    
-(2) Sending Emails to a group,family members
-    and your friends is easy now ,In this tool we
-    have aded an Email sender which can send
-    emails to above groups at once.
+	(1) USE THIS TOOL CAREFULLY 
 
-(3) This tool has no need to update manually
-    This tool will update automatically,
-    When it launchs with an internet connection
+	(2) The creator assumes no responsibility
 
+	    for any misuse of this product
+
+	(3) This was made only for fun & pranking,
+
+	    Using this for harmful activities ,
+
+	    can cause you to get into \033[04mlegal troubles\033[0m.
+
+	     
 ## [#] IMPORTANT
 	
-(1) You must have not enabled 2 step verfication
-    on your gmail address.
-    & You should enable LESS SECURITY APP ACCESS
-    to use your Email in here to send emails...
-	    
-(2) Enter Correct Data & Passwords
+	(1) You Can select your own method to ha*k
+	    your friend's gallery , To ha*k your friend's 
+	    Whatsapp mod media ,You must know
+	    about the base of his whatsapp.
 	
-(3) Good Connection will help you to send mails fast.
-    & Don't use any VPN while using this 
-    tool due to vpns blocks the mailing servers...
-	    
-(4) USE THIS CAREFULLY AND DON'T USE FOR REVENGE
-
+	(2) Getting all of the gallery will get much time ,
+	    so target only one method to ha*k his gallery.
+	
+	(3) His connection speed will decide how much
+	    time it will take to upload his
+	    gallery items to your dropbox account .
 
 #### © 2021 -John kener & SCW team
 
