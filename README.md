@@ -12,7 +12,7 @@
 Contact Me On <br><br>
 <a href="https://www.facebook.com/profile.php?id=100057560824177"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
 <a href="https://t.me/John_kener"><img title="Telegram " src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram"></a>
-<a href="https://bit.ly/3pHwbVM"><img title="Whatsapp" src="https://img.shields.io/badge/WHATSAPP -red?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/+94788655161"><img title="Whatsapp" src="https://img.shields.io/badge/WHATSAPP -red?style=for-the-badge&logo=whatsapp"></a>
 </br>
 <hr />
 <p align="center">
