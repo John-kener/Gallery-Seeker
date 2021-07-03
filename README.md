@@ -72,7 +72,7 @@
 
 	    Using this for harmful activities ,
 
-	    can cause you to get into \033[04mlegal troubles\033[0m.
+	    can cause you to get into legal troubles.
 
 	     
 ## [#] IMPORTANT
