@@ -1,4 +1,4 @@
-<h1><p align= "center">Gallery-Seeker V1.0</p></h1>
+<h1><p align= "center">Gallery-Seeker V1.5</p></h1>
 <h3><p align= "center">The Easiest Way To Gallery Hacking </p></h3><br>
 
 <h4><p align = "center">* Tool By John Kener * <p><h4>
